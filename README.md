@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++ for problem solving and Git/GitHub
 - 💻 I solve problems on Codeforces and plan to build beginner C++ projects
 - 🎯 Goal: Solve 100+ problems and start web/app development
-- 📫 How to reach me: [neloymahir@gmail.com]
+- 📫 How to reach me: neloymahir@gmail.com
 - ⚡ Fun fact: I once built an Android calculator app and now I'm coming back stronger 💪
 
 
