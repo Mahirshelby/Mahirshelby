@@ -1,5 +1,6 @@
-## 👋 Hi, I’m @Mahirshelby
-
+<h1 align="left">
+  Hi there! I'm Mahir Shelby
+</h1>
 <p align="right">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNkb29zd3RlbDNyajZkZzhuYTgwbHhya3g3eTYwb21rNHZpZmJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H6ElenJhypaSaQYP9V/giphy.gif" width="450" alt="Hi there!" />
 </p>
