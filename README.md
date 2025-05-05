@@ -1,4 +1,3 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNkb29zd3RlbDNyajZkZzhuYTgwbHhya3g3eTYwb21rNHZpZmJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H6ElenJhypaSaQYP9V/giphy.gif" width="50" alt="Hi there!" />
 ## 👋 Hi, I’m @Mahirshelby
 
 - 👀 I’m interested in becoming a Software Engineer
@@ -7,6 +6,10 @@
 - 🎯 Goal: Solve 100+ problems and start web/app development
 - 📫 How to reach me: neloymahir@gmail.com
 - ⚡ Fun fact: I once built an Android calculator app and now I'm coming back stronger 💪
+
+<p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNkb29zd3RlbDNyajZkZzhuYTgwbHhya3g3eTYwb21rNHZpZmJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H6ElenJhypaSaQYP9V/giphy.gif" width="150" alt="Hi there!" />
+</p>
 
 
 <!---
