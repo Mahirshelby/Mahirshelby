@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Mahirshelby
 
-- 👀 I’m interested in becoming a Software Engineer
+- 👀 I’m interested in becoming a Software Engineer 
 - 🌱 I’m currently learning C++ for problem solving and Git/GitHub
 - 💻 I solve problems on Codeforces and plan to build beginner C++ projects
 - 🎯 Goal: Solve 100+ problems and start web/app development
