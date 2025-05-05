@@ -1,3 +1,4 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNkb29zd3RlbDNyajZkZzhuYTgwbHhya3g3eTYwb21rNHZpZmJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H6ElenJhypaSaQYP9V/giphy.gif" width="50" alt="Hi there!" />
 ## 👋 Hi, I’m @Mahirshelby
 
 - 👀 I’m interested in becoming a Software Engineer
