@@ -11,6 +11,6 @@
 - 👀 I’m interested in becoming a **Software Engineer**  
 - 🌱 Currently learning **C++ for problem solving** and **Git/GitHub**  
 - 💻 I solve problems on **Codeforces** and plan to build beginner C++ projects  
-- 🎯 Goal: Solve 100+ problems and move into web/app development  
+- 🎯 Goal: Solve 500+ problems and move into web/app development  
 - 📫 Reach me at: **neloymahir@gmail.com**  
 - ⚡ Fun fact: I once built an Android Music player app — now I'm coming back stronger! 💪
